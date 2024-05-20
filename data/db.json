@@ -1,0 +1,17 @@
+{
+  "blogs": [
+    
+    {
+      "id": "cdd9",
+      "title": "hot cake                          ",
+      "author": "eddie",
+      "body": "body"
+    },
+    {
+      "id": "c177",
+      "title": "blog",
+      "author": "eddie",
+      "body": "blog was created"
+    }
+  ]
+}
